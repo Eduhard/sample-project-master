@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sample Project
 
 Sample project for [Getting started with Git through the command line](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html).
@@ -12,3 +13,6 @@ Sample project for [Getting started with Git through the command line](https://d
 1. Choose the namespace you want it forked into. If you don't have any groups
    in your account, when you click **Fork** GitLab won't ask you where you'd
    like to fork it into.
+=======
+# sample-project-master
+>>>>>>> 74b48b01d1429ff9687946924081aa1f50f07f0c
